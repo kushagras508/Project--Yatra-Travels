@@ -1,4 +1,4 @@
-# Tourism Website for Matiari
+# Tours and Travels website for famous INDIAN places
 <img src="images/matiari.png"/>
 
 http://explore-matiari.surge.sh/
