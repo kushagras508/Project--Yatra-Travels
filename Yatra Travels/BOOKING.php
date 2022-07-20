@@ -1,5 +1,5 @@
 <?php
-require_once "res2.php";
+require_once "dbase.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -72,13 +72,13 @@ require_once "res2.php";
     <center>
       <form id="resForm" method="post" target="_self">
         <label for="res_name">Name</label>
-        <input type="text" required name="res_name" onfocus="myFunction(this)" value="John Doe" />
+        <input type="text" required name="res_name" onfocus="myFunction(this)" value="" />
         <label for="res_email">Email</label>
-        <input type="email" required name="res_email" onfocus="myFunction(this)" value="john@doe.com" />
+        <input type="email" required name="res_email" onfocus="myFunction(this)" value="" />
         <label for="res_tel">Mobile</label>
-        <input type="text" required name="res_tel" onfocus="myFunction(this)" value="123456789" />
+        <input type="text" required name="res_tel" onfocus="myFunction(this)" value="" />
         <label for="res_notes">Notes (if any)</label>
-        <input type="text" name="res_notes" onfocus="myFunction(this)" value="Testing" />
+        <input type="text" name="res_notes" onfocus="myFunction(this)" value="" />
         <label for="res_destination">SELECT DESTINATION</label>
         <select name="res_destination" onfocus="myFunction(this)">
           <option></option>
@@ -96,7 +96,7 @@ require_once "res2.php";
           <option value="TIRUPATI BALAJI PACKAGE">TIRUPATI BALAJI PACKAGE</option>
         </select>
         <label>Travel Date</label>
-        <input type="date" required name="res_date" onfocus="myFunction(this)" id="date" value="<?= date("Y-m-d") ?>">
+        <input type="date" required name="res_date" onfocus="myFunction(this)" id="date" value="DD-MM-YYYY">
         <label>Travel Slot</label>
         <select name="res_slot" onfocus="myFunction(this)">
           <option value="AM">Day</option>
