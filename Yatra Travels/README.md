@@ -10,7 +10,7 @@ http://yatratravels.rf.gd/
 
 ## Run Locally 
 
-- Run this command `git clone https://github.com/kushagras508/Yatra-Travels.git`
+- Run this command `git clone https://github.com/kushagras508/Project--Yatra-Travels`
 - You are now in the dev environment and you can play around 
 
 ## Tech Stack
