@@ -1,11 +1,10 @@
-# Tours and Travels website for famous INDIAN places
+# Tours and Travels website
 <img src="images/matiari.png"/>
 
-http://explore-matiari.surge.sh/
-### *A Website about Matiari, that contains Information about Matiari, It's History, Restaurants, Famous Places, Famous Things, Bus Stops and Hospitals.*
+# Online hosting link
+http://yatratravels.rf.gd/
 
-## Task
-Built this app to show Attractions and History of my Village "MATIARI" and to polish my HTML5, CSS3, Javascript-es6, and Web App Development Skills.
+### *A Website about Indian tourist attaractions, that contains Information about famous attractions, Restaurants, Booking, Prices and more.*
 
 
 ## Run Locally 
@@ -19,4 +18,4 @@ Built this app to show Attractions and History of my Village "MATIARI" and to po
 - CSS3
 - Font Awesome
 - VS Code
-- Surge
+- Surge!
