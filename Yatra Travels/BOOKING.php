@@ -1,5 +1,5 @@
 <?php
-require_once "dbase.php";
+require_once "res2.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
