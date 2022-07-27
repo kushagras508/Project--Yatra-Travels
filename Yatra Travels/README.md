@@ -1,7 +1,7 @@
 # Tours and Travels website
 <img src="images/Yatra-home.png"/>
 
-### *A Website about Indian tourist attaractions, that contains Information about famous attractions, Restaurants, Booking, Prices and more.*
+### *A Website about Indian tourist destinations, that contains Information about famous attractions, Restaurants, Booking, Prices and more.*
 
 
 ## Online hosting link
